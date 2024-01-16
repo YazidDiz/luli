@@ -1,7 +1,7 @@
 [
 {
     "domain": ".facebook.com",
-    "expirationDate": 1736873060.855685,
+    "expirationDate": 1736936654.331216,
     "hostOnly": false,
     "httpOnly": false,
     "name": "c_user",
@@ -15,7 +15,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1737880116.513364,
+    "expirationDate": 1739954241.4487,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -24,12 +24,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "S5mGZeGukGkxUvTKOHNEJCb2",
+    "value": "QkCmZcLDqWup3DjEKPzbdoJm",
     "id": 2
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1713113060.856022,
+    "expirationDate": 1713176654.331327,
     "hostOnly": false,
     "httpOnly": true,
     "name": "fr",
@@ -38,12 +38,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "0Hf3SP7QjlZJxko0S.AWWv8gGU3wVdoI8StGm885EukjM.BlhplX.IQ.AAA.0.0.BlpWDg.AWV7jlSCNRc",
+    "value": "0sGHh4sNXB2yLz5ae.AWU9wxH798KBLJTSYWxMBdVT1HQ.Blplkl.Ds.AAA.0.0.BlpllM.AWWlPEtew10",
     "id": 3
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1713113061.393545,
+    "expirationDate": 1713176654.910375,
     "hostOnly": false,
     "httpOnly": true,
     "name": "m_page_voice",
@@ -57,7 +57,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1739897060.842911,
+    "expirationDate": 1739960654.331067,
     "hostOnly": false,
     "httpOnly": true,
     "name": "sb",
@@ -66,12 +66,26 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "S5mGZZv6AIhCloR7I-kboJ0o",
+    "value": "QkCmZe3iRcyJ8LJ0ZD9je6da",
     "id": 5
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1736873060.855951,
+    "expirationDate": 1706005416,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "wd",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "852x426",
+    "id": 6
+},
+{
+    "domain": ".facebook.com",
+    "expirationDate": 1736936654.331278,
     "hostOnly": false,
     "httpOnly": true,
     "name": "xs",
@@ -80,7 +94,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "44%3A2YTEzQz5ixHXQw%3A2%3A1705337059%3A-1%3A7820",
-    "id": 6
+    "value": "50%3AiyYb-XsDZ-HOLQ%3A2%3A1705400654%3A-1%3A7820",
+    "id": 7
 }
 ]
