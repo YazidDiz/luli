@@ -1,1 +1,6 @@
-
+{
+  "commands": {
+    "start": "npm start",
+    "stop": "npm stop"
+  }
+}
