@@ -1,1 +1,14 @@
+{
+  "app_name": "YourAppName",
+  "api_key": "YourAPIKey",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "db_user",
+    "password": "db_password",
+    "database_name": "your_database"
+  },
+  "debug_mode": true,
+  "max_connections": 10
+}
 
