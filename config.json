@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "tomudenzetu@gmail.com",
+    "password": "Yasti56&",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100056927749389"
+    "100055235366707"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Mujibhai94",
-  "prefix": "$",
+  "nickNameBot": "Yaaz",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
